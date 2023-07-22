@@ -1,4 +1,13 @@
-### Hi there 👋
+# Samuel Barrera Bastidas 👋
+## Backend Developer
+
+Durante mis 18 años de carrera como Desarrollador Backend, me he especializado en las industrias financiera y logística, adquiriendo profunda experiencia en herramientas modernas y robustas como AWS, Node y Oracle. Mi destreza se destaca en la solución de desafíos técnicos complejos, diseñando soluciones eficientes y escalables.
+
+
+En mi trayectoria, he liderado proyectos y desarrollado soluciones en la nube, participando también en innovaciones de realidad aumentada y realidad virtual. Mi trabajo abarca el desarrollo incremental de frameworks, migración de tecnologías e implementación de integraciones y servicios, siempre promoviendo eficiencia e innovación.
+
+
+Estoy emocionado por la posibilidad de integrarme a un nuevo equipo, donde puedo aportar mi experiencia y habilidades para impulsar soluciones de alta calidad y valor agregado.
 
 <!--
 **silverfox78/silverfox78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
