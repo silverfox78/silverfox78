@@ -58,3 +58,6 @@
 😄 💬 ![AskMe](https://img.shields.io/badge/Ask%20me-anything-FF7139.svg) 💬 😄
 
 </center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverfox78\&rank_icon=github&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfox78&layout=donut&theme=radical)](https://github.com/silverfox78/github-readme-stats)
