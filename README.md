@@ -1,9 +1,8 @@
 <p align="center">
+
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="img/banner.png" width="1300" height="220">
 
 </p>
-
-<center>
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoColor=green&labelColor=000000&logoWidth=30)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-232F3E?style=flat&logo=microsoft-azure&logoColor=white&labelColor=000000&logoWidth=30)
@@ -43,11 +42,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6&logoWidth=25)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white&logoWidth=25)
 
-</center>
-
 -----
-
-<center>
 
 [![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff&logoWidth=30)](https://github.com/silverfox78)
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black&logoWidth=30)](https://www.hackerrank.com/sbarrera) 
@@ -55,9 +50,7 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=devdotto&logoWidth=30)](https://dev.to/sbarrera)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black&logoWidth=30)](https://www.linkedin.com/in/samuelbarrera/)
 
-😄 💬 ![AskMe](https://img.shields.io/badge/Ask%20me-anything-FF7139.svg) 💬 😄
-
-</center>
+-----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverfox78\&rank_icon=github&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfox78&layout=donut&theme=radical)](https://github.com/silverfox78/github-readme-stats)
