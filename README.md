@@ -1,6 +1,7 @@
+<p align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="img/banner.gif" width="600" height="200">
 
-<br>
+
 <center>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/samuelbarrera/) :left_right_arrow: 
@@ -9,6 +10,9 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=ffffff&labelColor=000000)](samuelbarrerabastidas.medium.com)
 
 </center>
+</p>
+
+</br>
 
 Durante mis 18 años de carrera como Desarrollador Backend, me he especializado en las industrias financiera y logística, adquiriendo profunda experiencia en herramientas modernas y robustas como AWS, Node y Oracle. Mi destreza se destaca en la solución de desafíos técnicos complejos, diseñando soluciones eficientes y escalables.
 
