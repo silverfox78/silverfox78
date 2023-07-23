@@ -4,6 +4,16 @@
 
 </p>
 
+:feet: You can find me around here
+
+[![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff&logoWidth=30)](https://github.com/silverfox78)
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black&logoWidth=30)](https://www.hackerrank.com/sbarrera) 
+[![Medium](https://img.shields.io/badge/-Medium-FFFFFF?style=flat&logo=medium&logoColor=ffffff&labelColor=000000&logoWidth=30)](samuelbarrerabastidas.medium.com)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=devdotto&logoWidth=30)](https://dev.to/sbarrera)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black&logoWidth=30)](https://www.linkedin.com/in/samuelbarrera/)
+
+:star2: My favorite tools
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoColor=green&labelColor=000000&logoWidth=30)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-232F3E?style=flat&logo=microsoft-azure&logoColor=white&labelColor=000000&logoWidth=30)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-008DE4?style=flat&logo=Node.js&logoColor=green&labelColor=000000&logoWidth=25)
@@ -42,15 +52,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6&logoWidth=25)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white&logoWidth=25)
 
------
-
-[![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff&logoWidth=30)](https://github.com/silverfox78)
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black&logoWidth=30)](https://www.hackerrank.com/sbarrera) 
-[![Medium](https://img.shields.io/badge/-Medium-FFFFFF?style=flat&logo=medium&logoColor=ffffff&labelColor=000000&logoWidth=30)](samuelbarrerabastidas.medium.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=devdotto&logoWidth=30)](https://dev.to/sbarrera)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black&logoWidth=30)](https://www.linkedin.com/in/samuelbarrera/)
-
------
+:point_right: :point_left: My embarrassments and leisure in general...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverfox78\&rank_icon=github&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfox78&layout=donut&theme=radical)](https://github.com/silverfox78/github-readme-stats)
