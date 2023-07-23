@@ -4,6 +4,12 @@
 
 </p>
 
+:hammer: Slaying Dragons, Unicorns, and Ghosts since 2005 in the region... 
+
+![my badge](https://badgen.net/badge/Feats/here/red?icon=bitcoin-lightning) :left_right_arrow: [![my badge](https://badgen.net/badge/Hazañas/aqui/blue?icon=bitcoin-lightning)](work/work-esp.md)
+
+-----
+
 :feet: You can find me around here
 
 [![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff&logoWidth=30)](https://github.com/silverfox78)
@@ -12,7 +18,7 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=devdotto&logoWidth=30)](https://dev.to/sbarrera)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black&logoWidth=30)](https://www.linkedin.com/in/samuelbarrera/)
 
-:star2: My favorite tools
+:star2: My favorite tools ***{Backend at heart :sparkling_heart:}***
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoColor=green&labelColor=000000&logoWidth=30)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-232F3E?style=flat&logo=microsoft-azure&logoColor=white&labelColor=000000&logoWidth=30)
@@ -45,7 +51,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoWidth=25)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=flat&logo=mocha&logoColor=Brown&logoWidth=25)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=flat&logo=chai&logoColor=red&logoWidth=25)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink&logoWidth=25)
+![JWT](https://img.shields.io/badge/JWT-323330?style=flat&logo=json-web-tokens&logoColor=pink&logoWidth=25)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger&logoWidth=25)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3&logoWidth=25)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E&logoWidth=25)
