@@ -1,6 +1,6 @@
 <p align="center">
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="img/banner.png" width="1300" height="220">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="img/bannerGit.jpg" width="1300" height="220">
 
 </p>
 
