@@ -58,7 +58,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6&logoWidth=25)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white&logoWidth=25)
 
-:point_right: :point_left: My embarrassments and leisure in general...
+-----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverfox78\&rank_icon=github&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfox78&layout=donut&theme=radical)](https://github.com/silverfox78/github-readme-stats)
